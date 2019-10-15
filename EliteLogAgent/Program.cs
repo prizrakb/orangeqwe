@@ -40,6 +40,7 @@
                 // Load plugins
                 var pluginManager = container.Resolve<IPluginManager>();
                 pluginManager.LoadPlugin("DW.ELA.Plugin.Inara");
+                pluginManager.LoadPlugin("DW.ELA.Plugin.OrangeJuice");
                 pluginManager.LoadPlugin("DW.ELA.Plugin.EDDN");
                 pluginManager.LoadPlugin("DW.ELA.Plugin.EDSM");
                 pluginManager.LoadEmbeddedPlugins();
