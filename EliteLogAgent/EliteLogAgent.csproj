@@ -207,6 +207,10 @@
       <Project>{6f64b299-6a1d-4f4a-9bd6-911634a9f02f}</Project>
       <Name>DW.ELA.Plugin.Inara</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Plugin.Inara\DW.ELA.Plugin.OrangeJuice.csproj">
+      <Project>{6f64b299-6a1d-4f4a-9bd6-911634a9f02f}</Project>
+      <Name>DW.ELA.Plugin.OrangeJuice</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
