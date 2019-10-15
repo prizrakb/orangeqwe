@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteLogAgent", "EliteLogAg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW.ELA.Plugin.Inara", "Plugin.Inara\DW.ELA.Plugin.Inara.csproj", "{6F64B299-6A1D-4F4A-9BD6-911634A9F02F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW.ELA.Plugin.OrangeJuice", "Plugin.OrangeJuice\DW.ELA.Plugin.OrangeJuice.csproj", "{6F64B299-6A1D-4F4A-9BD6-911634A9F03F}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW.ELA.Plugin.EDSM", "Plugin.EDSM\DW.ELA.Plugin.EDSM.csproj", "{CF1A7347-AD57-49B2-BA8E-7390B195A4E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DW.ELA.Plugin.EDDN", "DW.ELA.Plugin.EDDN\DW.ELA.Plugin.EDDN.csproj", "{A9E8BE2A-1256-4933-AC2C-C2CE7AB26900}"

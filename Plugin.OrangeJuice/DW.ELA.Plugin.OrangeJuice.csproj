@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F64B299-6A1D-4F4A-9BD6-911634A9F02F}</ProjectGuid>
+    <ProjectGuid>{6F64B299-6A1D-4F4A-9BD6-911634A9F03F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DW.ELA.Plugin.OrangeJuice</RootNamespace>
