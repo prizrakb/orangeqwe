@@ -18,7 +18,7 @@
     {
         public const string CPluginName = "OrangeJuice";
         public const string CPluginId = "OrangeJuiceUploader";
-        private const string OrangeJuiceApiUrl = "https://inara.cz/inapi/v1/";
+        private const string OrangeJuiceApiUrl = "http://api.elite.ovh/ojapi/v1/";
         private static readonly ILogger Log = LogManager.GetCurrentClassLogger();
 
         private readonly IPlayerStateHistoryRecorder playerStateRecorder;
@@ -85,7 +85,7 @@
         {
             ApiKeys = GetActualApiKeys(),
             ApiKeyValidator = this,
-            ApiSettingsLink = "https://inara.cz/settings-api/",
+            ApiSettingsLink = "http://api.elite.ovh/settings-api/",
             GlobalSettings = settings,
             SaveSettingsFunc = SaveSettings
         };
